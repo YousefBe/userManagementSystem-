@@ -15,7 +15,7 @@
 
 </head>
 
-<body class="antialiased bg-gray-700">
+<body class="antialiased">
     <div id="app"></div>
         <div class=""></div>
     <script src="{{mix('js/app.js')}}"></script>
